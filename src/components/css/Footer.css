@@ -1,0 +1,35 @@
+.Footer{
+    color:#fff;
+    margin-top:20px;
+    font-size:13px;
+    background-color:#232f3e;
+}
+.Footer_BackToTop{
+    background-color:#37475a;
+    margin-bottom:40px;
+    text-align:center;
+}
+.Footer_BackToTop:hover{
+    cursor:pointer;
+    background-color:#3368a9;
+
+
+}
+Footer_BackToTopText{
+    display:block;
+    padding : 10px 0;
+    line-height:20px;
+    font-size:40px !important ;
+    color:#fff;
+
+}
+.FooterVerticalRow{
+    display:flex;
+    padding-bottom:40px;
+    justify-content:space-around;
+    margin:0 auto;
+
+}
+.FooterVerticalRow ul li{
+   list-style-type:none;
+}
